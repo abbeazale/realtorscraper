@@ -351,7 +351,7 @@ def main():
     ap.add_argument("--city", required=True, help="City slug as used in the URL, e.g. 'vancouver' (not 'Vancouver, WA').")
     ap.add_argument("--state", required=True, help="State code, e.g. 'wa'.")
     ap.add_argument("--max-pages", type=int, default=10, help="Max pages to walk (adds /pg-2, /pg-3, ...)")
-    ap.add_argument("-o", "--output", default="agents.json", help="Output JSON file.")
+    ap.add_argument("-o", "--output", help="Output JSON file (default: {city}_agents.json).")
     ap.add_argument("--delay-min", type=float, default=1.0, help="Min delay between requests (seconds).")
     ap.add_argument("--delay-max", type=float, default=2.5, help="Max delay between requests (seconds).")
     ap.add_argument("--proxy-host", default="unblock.oxylabs.io")
@@ -366,8 +366,12 @@ def main():
         print("Error: provide Oxylabs credentials via --oxy-user/--oxy-pass or OXY_USER/OXY_PASS env vars.", file=sys.stderr)
         sys.exit(2)
 
+    city_slug = args.city.lower().replace(" ", "-")
+    if not args.output or args.output.strip() == "":
+        args.output = f"{city_slug}_agents.json"
+
     agents = scrape(
-        city_slug=args.city.lower().replace(" ", "-"),
+        city_slug=city_slug,
         state_code=args.state.upper(),
         max_pages=args.max_pages,
         delay_min=args.delay_min,

@@ -1,0 +1,730 @@
+[
+  {
+    "name": "Marsha Ashlock",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 877-1508"
+      },
+      {
+        "type": "Mobile",
+        "number": "(817) 307-5890"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 640-2064"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 288-5510"
+      }
+    ],
+    "sold": 2097,
+    "for_sale": 130
+  },
+  {
+    "name": "Bryan Reasor",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 876-4066"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 864-4692"
+      }
+    ],
+    "sold": 1615,
+    "for_sale": 20
+  },
+  {
+    "name": "Jimmy Rado",
+    "phones": [
+      {
+        "type": "tfn",
+        "number": "+1 (877) 933-5539"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 442-0697"
+      }
+    ],
+    "sold": 1449,
+    "for_sale": 178
+  },
+  {
+    "name": "Christie Cannon",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 215-7747"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 712-9898"
+      }
+    ],
+    "sold": 1362,
+    "for_sale": 155
+  },
+  {
+    "name": "Christopher Watters, Realtor | Broker",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(737) 313-5275"
+      },
+      {
+        "type": "Office",
+        "number": "(210) 756-7250"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 764-6707"
+      },
+      {
+        "type": "Office",
+        "number": "(512) 646-0038"
+      }
+    ],
+    "sold": 731,
+    "for_sale": 215
+  },
+  {
+    "name": "Steve Metarelis",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(844) 448-0749"
+      }
+    ],
+    "sold": 718,
+    "for_sale": 76
+  },
+  {
+    "name": "Ginger Weeks",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(469) 301-3350"
+      },
+      {
+        "type": "Mobile",
+        "number": "(214) 385-0155"
+      },
+      {
+        "type": "Other",
+        "number": "(469) 301-3351"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 523-3300"
+      },
+      {
+        "type": "Fax",
+        "number": "(214) 818-4140"
+      }
+    ],
+    "sold": 639,
+    "for_sale": 163
+  },
+  {
+    "name": "JOHN PRELL, Broker",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(214) 696-4663"
+      },
+      {
+        "type": "Office",
+        "number": "(281) 444-7071"
+      },
+      {
+        "type": "Office",
+        "number": "(800) 219-9444"
+      },
+      {
+        "type": "Office",
+        "number": "(512) 444-8778"
+      }
+    ],
+    "sold": 621,
+    "for_sale": 146
+  },
+  {
+    "name": "Russell Rhodes",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 996-2503"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 899-5600"
+      },
+      {
+        "type": "Office",
+        "number": "(210) 493-1733"
+      }
+    ],
+    "sold": 611,
+    "for_sale": 43
+  },
+  {
+    "name": "Tammi Montgomery",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(318) 540-6108"
+      },
+      {
+        "type": "Office",
+        "number": "(318) 862-3560"
+      },
+      {
+        "type": "Fax",
+        "number": "(318) 861-5272"
+      }
+    ],
+    "sold": 482,
+    "for_sale": 95
+  },
+  {
+    "name": "William Nelson",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 317-5900"
+      },
+      {
+        "type": "Mobile",
+        "number": "(972) 679-2279"
+      }
+    ],
+    "sold": 463,
+    "for_sale": 119
+  },
+  {
+    "name": "Lily Moore",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(817) 344-7034"
+      },
+      {
+        "type": "Mobile",
+        "number": "(817) 715-3771"
+      }
+    ],
+    "sold": 428,
+    "for_sale": 59
+  },
+  {
+    "name": "Karla Davis",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 822-1167"
+      },
+      {
+        "type": "Mobile",
+        "number": "(972) 338-5441"
+      }
+    ],
+    "sold": 300,
+    "for_sale": 37
+  },
+  {
+    "name": "Amber Kimmel",
+    "phones": [
+      {
+        "type": "Home Office",
+        "number": "(325) 439-0787"
+      },
+      {
+        "type": "Office",
+        "number": "(325) 698-3211"
+      },
+      {
+        "type": "Office",
+        "number": "(325) 692-4488"
+      }
+    ],
+    "sold": 290,
+    "for_sale": 33
+  },
+  {
+    "name": "Dan Harker and EmpowerHome Team Dallas",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 503-4165"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 732-6000"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 732-6003"
+      }
+    ],
+    "sold": 276,
+    "for_sale": 83
+  },
+  {
+    "name": "The Kocher Team - Andre Kocher",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(469) 240-2058"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 874-1905"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 874-2107"
+      }
+    ],
+    "sold": 266,
+    "for_sale": 29
+  },
+  {
+    "name": "William Moomaw",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 244-1804"
+      },
+      {
+        "type": "Office",
+        "number": "(903) 880-3989"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 771-6970"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 771-9780"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 771-3130"
+      }
+    ],
+    "sold": 245,
+    "for_sale": 68
+  },
+  {
+    "name": "The Hershenberg Group",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(817) 657-2470"
+      },
+      {
+        "type": "Mobile",
+        "number": "(650) 241-0910"
+      }
+    ],
+    "sold": 219,
+    "for_sale": 110
+  },
+  {
+    "name": "Steven Franco",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(832) 631-9104"
+      },
+      {
+        "type": "Mobile",
+        "number": "(832) 234-9820"
+      },
+      {
+        "type": "BUSINESS_PHONE",
+        "number": "(855) 450-0442"
+      }
+    ],
+    "sold": 194,
+    "for_sale": 43
+  },
+  {
+    "name": "Hunter Dehn",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 500-5222"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 471-5007"
+      }
+    ],
+    "sold": 191,
+    "for_sale": 34
+  },
+  {
+    "name": "Brandee Escalante",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 675-8545"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 817-8556"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 332-1693"
+      }
+    ],
+    "sold": 190,
+    "for_sale": 53
+  },
+  {
+    "name": "Cindy O'Gorman",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 803-8809"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 715-0190"
+      },
+      {
+        "type": "Other",
+        "number": "(972) 380-7389"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 980-6672"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 458-9535"
+      }
+    ],
+    "sold": 184,
+    "for_sale": 29
+  },
+  {
+    "name": "Denton Aguam, CEO",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 308-5441"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 308-5445"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 599-7000"
+      }
+    ],
+    "sold": 175,
+    "for_sale": 22
+  },
+  {
+    "name": "Frankie Arthur",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 989-6934"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 655-8870"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 829-4450"
+      }
+    ],
+    "sold": 168,
+    "for_sale": 17
+  },
+  {
+    "name": "Travis Turner",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(806) 577-2508"
+      },
+      {
+        "type": "Office",
+        "number": "(806) 999-0722"
+      }
+    ],
+    "sold": 165,
+    "for_sale": 48
+  },
+  {
+    "name": "Leslie Majors, Agent",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 921-6880"
+      },
+      {
+        "type": "Mobile",
+        "number": "(972) 921-8215"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 905-6333"
+      }
+    ],
+    "sold": 162,
+    "for_sale": 29
+  },
+  {
+    "name": "Nick Good",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 215-7653"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 519-7431"
+      }
+    ],
+    "sold": 162,
+    "for_sale": 37
+  },
+  {
+    "name": "Tod G. Franklin",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 207-0210"
+      },
+      {
+        "type": "Office",
+        "number": "(469) 507-2070"
+      }
+    ],
+    "sold": 159,
+    "for_sale": 12
+  },
+  {
+    "name": "Leonard McManaman",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 332-0008"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 712-9898"
+      }
+    ],
+    "sold": 150,
+    "for_sale": 17
+  },
+  {
+    "name": "Anastasia Riley",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(972) 712-8500"
+      },
+      {
+        "type": "Mobile",
+        "number": "(972) 984-0511"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 712-1578"
+      }
+    ],
+    "sold": 149,
+    "for_sale": 17
+  },
+  {
+    "name": "Brittany Stewart",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(469) 712-4888"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 519-7431"
+      }
+    ],
+    "sold": 148,
+    "for_sale": 29
+  },
+  {
+    "name": "Don Lawyer",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(817) 657-9159"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 635-1015"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 779-4919"
+      }
+    ],
+    "sold": 147,
+    "for_sale": 30
+  },
+  {
+    "name": "Nancy Garcia- HABLO ESPAÑOL",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 609-7867"
+      },
+      {
+        "type": "Office",
+        "number": "(214) 705-7827"
+      }
+    ],
+    "sold": 147,
+    "for_sale": 16
+  },
+  {
+    "name": "Stacey Leslie",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(214) 997-0331"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 519-7431"
+      }
+    ],
+    "sold": 140,
+    "for_sale": 27
+  },
+  {
+    "name": "GINGER & ASSOCIATES - A REAL ESTATE GROUP",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(817) 637-9184"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 887-6911"
+      },
+      {
+        "type": "Other",
+        "number": "(817) 920-7701"
+      },
+      {
+        "type": "Office",
+        "number": "(817) 386-9011"
+      }
+    ],
+    "sold": 139,
+    "for_sale": 35
+  },
+  {
+    "name": "Dee Evans",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 567-0046"
+      },
+      {
+        "type": "Home",
+        "number": "(972) 772-9300"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 772-6127"
+      }
+    ],
+    "sold": 135,
+    "for_sale": 54
+  },
+  {
+    "name": "Lance Taylor",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 850-8501"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 599-7000"
+      }
+    ],
+    "sold": 134,
+    "for_sale": 20
+  },
+  {
+    "name": "Delanee Clark",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 500-1641"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 524-2525"
+      },
+      {
+        "type": "Fax",
+        "number": "(972) 551-2525"
+      }
+    ],
+    "sold": 126,
+    "for_sale": 61
+  },
+  {
+    "name": "THE REAL McCOYS® REALTY GROUP",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(972) 567-3813"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 665-2853"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 599-7000"
+      }
+    ],
+    "sold": 126,
+    "for_sale": 9
+  },
+  {
+    "name": "Sunny Darden",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(214) 624-7901"
+      },
+      {
+        "type": "Office",
+        "number": "(972) 244-6607"
+      },
+      {
+        "type": "BUSINESS_PHONE",
+        "number": "(469) 485-7806"
+      }
+    ],
+    "sold": 120,
+    "for_sale": 17
+  }
+]

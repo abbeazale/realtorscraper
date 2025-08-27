@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import argparse, json, os, re, sys, time, random
 from typing import Any, Dict, List, Set, Tuple
 import requests
@@ -63,7 +62,7 @@ def _load_json_candidates_from_html(html: str) -> List[Any]:
     return candidates
 
 def _walk_collect_agents(node: Any, out: List[Dict[str, Any]]):
-    """Collect dicts that look like agent objects (have a name + any phone info)."""
+    """Collect dictionaries that look like agent objects (have a name + any phone info)."""
     if isinstance(node, dict):
         keys = node.keys()
         if ("person_name" in keys or "full_name" in keys or ("first_name" in keys and "last_name" in keys)):
@@ -125,7 +124,7 @@ def extract_phones(agent: Dict[str, Any]) -> List[Dict[str, str]]:
 
     return phones
 
-# --- sold/for-sale count helpers ---
+# sold/for-sale count helpers
 
 def _iter_numeric_counts(node: Any, key_pred) -> list[int]:
     out: list[int] = []
@@ -192,7 +191,7 @@ def _collect_counts_by_name(roots: list[Any]) -> dict[str, tuple[int | None, int
         walk(r)
     return out
 
-# --- HTML-based count extraction (fallback when JSON lacks counts) ---
+# HTML-based count extraction (fallback when JSON lacks counts)
 
 def _normalize_name(s: str) -> str:
     return re.sub(r"\s+", " ", (s or "")).strip().lower()

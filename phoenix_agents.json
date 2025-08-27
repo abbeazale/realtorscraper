@@ -1,0 +1,698 @@
+[
+  {
+    "name": "George Laughton",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(623) 343-9721"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 326-3391"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 266-3806"
+      }
+    ],
+    "sold": 871,
+    "for_sale": 240
+  },
+  {
+    "name": "Beth Rider",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 737-2414"
+      },
+      {
+        "type": "Office",
+        "number": "(602) 315-8749"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 767-3000"
+      },
+      {
+        "type": "Fax",
+        "number": "(480) 629-5300"
+      }
+    ],
+    "sold": 613,
+    "for_sale": 89
+  },
+  {
+    "name": "Brandon Howe",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 909-6513"
+      },
+      {
+        "type": "Office",
+        "number": "(602) 899-0800"
+      }
+    ],
+    "sold": 608,
+    "for_sale": 73
+  },
+  {
+    "name": "Richard Harless",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 485-4881"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 440-2568"
+      }
+    ],
+    "sold": 374,
+    "for_sale": 64
+  },
+  {
+    "name": "Doug Hopkins",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 464-6000"
+      },
+      {
+        "type": "Mobile",
+        "number": "(602) 739-3684"
+      },
+      {
+        "type": "Fax",
+        "number": "(480) 464-8878"
+      },
+      {
+        "type": "BUSINESS_PHONE",
+        "number": "(480) 685-2760"
+      }
+    ],
+    "sold": 348,
+    "for_sale": 82
+  },
+  {
+    "name": "Mike Cave",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 410-7660"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 594-7680"
+      }
+    ],
+    "sold": 298,
+    "for_sale": 105
+  },
+  {
+    "name": "Rick Metcalfe",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 759-2242"
+      }
+    ],
+    "sold": 278,
+    "for_sale": 47
+  },
+  {
+    "name": "Kristin Ray",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(623) 606-3089"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 600-7444"
+      }
+    ],
+    "sold": 276,
+    "for_sale": 28
+  },
+  {
+    "name": "Carol Royse Team - Your Home SOLD Guaranteed Or I'll Buy It!",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 776-5231"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 797-2724"
+      },
+      {
+        "type": "tfn",
+        "number": "+1 (800) 211-6527"
+      },
+      {
+        "type": "Other",
+        "number": "(480) 993-8112"
+      }
+    ],
+    "sold": 234,
+    "for_sale": 31
+  },
+  {
+    "name": "Lenny Behie",
+    "phones": [
+      {
+        "type": "Other",
+        "number": "(602) 319-8868"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 570-1835"
+      },
+      {
+        "type": "Fax",
+        "number": "(623) 561-8427"
+      }
+    ],
+    "sold": 231,
+    "for_sale": 10
+  },
+  {
+    "name": "Cheryl Kypreos",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(602) 789-4792"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 443-7400"
+      }
+    ],
+    "sold": 205,
+    "for_sale": 3
+  },
+  {
+    "name": "Lauren Rosin",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 744-4604"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 734-7064"
+      }
+    ],
+    "sold": 204,
+    "for_sale": 7
+  },
+  {
+    "name": "Martin Sears",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(623) 853-3380"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 810-4524"
+      },
+      {
+        "type": "Toll Free",
+        "number": "(888) 470-5108"
+      }
+    ],
+    "sold": 202,
+    "for_sale": 19
+  },
+  {
+    "name": "Kim Panozzo",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 526-0118"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 601-6400"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 307-8326"
+      }
+    ],
+    "sold": 197,
+    "for_sale": 40
+  },
+  {
+    "name": "Jason Penrose",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 596-2900"
+      },
+      {
+        "type": "Mobile",
+        "number": "(602) 738-9943"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 897-7821"
+      }
+    ],
+    "sold": 192,
+    "for_sale": 49
+  },
+  {
+    "name": "The Wrangler",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 313-2246"
+      }
+    ],
+    "sold": 188,
+    "for_sale": 85
+  },
+  {
+    "name": "Michael Kent",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 459-7258"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 610-6500"
+      }
+    ],
+    "sold": 174,
+    "for_sale": 36
+  },
+  {
+    "name": "Adam Hamblen",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 339-3396"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 572-4600"
+      }
+    ],
+    "sold": 167,
+    "for_sale": 48
+  },
+  {
+    "name": "Kelly Meadows, Agent",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 697-0777"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 552-3773"
+      }
+    ],
+    "sold": 167,
+    "for_sale": 66
+  },
+  {
+    "name": "Thomas Mastromatto",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(602) 888-7073"
+      }
+    ],
+    "sold": 161,
+    "for_sale": 37
+  },
+  {
+    "name": "Rebecca Durfey",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(623) 297-4536"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 939-8900"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 298-4308"
+      }
+    ],
+    "sold": 157,
+    "for_sale": 15
+  },
+  {
+    "name": "Katrina Barrett",
+    "phones": [
+      {
+        "type": "Other",
+        "number": "(520) 405-3470"
+      },
+      {
+        "type": "Mobile",
+        "number": "(520) 403-5270"
+      }
+    ],
+    "sold": 154,
+    "for_sale": 5
+  },
+  {
+    "name": "Neil Brooks",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 574-1111"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 685-2760"
+      }
+    ],
+    "sold": 152,
+    "for_sale": 17
+  },
+  {
+    "name": "Kelly Cook",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(480) 442-9868"
+      },
+      {
+        "type": "Other",
+        "number": "(480) 744-6151"
+      }
+    ],
+    "sold": 149,
+    "for_sale": 22
+  },
+  {
+    "name": "Becky Garcia",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 796-2873"
+      }
+    ],
+    "sold": 144,
+    "for_sale": 25
+  },
+  {
+    "name": "Michelle Minik",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 488-5432"
+      },
+      {
+        "type": "Office",
+        "number": "(708) 323-2479"
+      },
+      {
+        "type": "Office",
+        "number": "(623) 866-2194"
+      }
+    ],
+    "sold": 144,
+    "for_sale": 31
+  },
+  {
+    "name": "Ashley Sanchez",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 300-3969"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 897-7821"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 443-7400"
+      }
+    ],
+    "sold": 143,
+    "for_sale": 6
+  },
+  {
+    "name": "Courtney Zimmerman",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(480) 352-1539"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 794-1694"
+      }
+    ],
+    "sold": 136,
+    "for_sale": 114
+  },
+  {
+    "name": "Michelle Colbert",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(217) 649-7639"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 854-2400"
+      }
+    ],
+    "sold": 133,
+    "for_sale": 17
+  },
+  {
+    "name": "Lala Smith",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 810-0165"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 897-7821"
+      }
+    ],
+    "sold": 132,
+    "for_sale": 23
+  },
+  {
+    "name": "Emily Duarte",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(480) 999-2309"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 767-3000"
+      },
+      {
+        "type": "Fax",
+        "number": "(480) 629-5300"
+      }
+    ],
+    "sold": 126,
+    "for_sale": 8
+  },
+  {
+    "name": "Jonathan Miller",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(480) 296-6683"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 570-1835"
+      },
+      {
+        "type": "Fax",
+        "number": "(866) 675-0544"
+      }
+    ],
+    "sold": 126,
+    "for_sale": 7
+  },
+  {
+    "name": "Barbara Savoy",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(602) 867-2000"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 291-1600"
+      },
+      {
+        "type": "Fax",
+        "number": "(480) 291-1700"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 346-4111"
+      },
+      {
+        "type": "Other",
+        "number": "(480) 346-4110"
+      },
+      {
+        "type": "Fax",
+        "number": "(888) 983-5151"
+      }
+    ],
+    "sold": 122,
+    "for_sale": 26
+  },
+  {
+    "name": "Lacey Lehman",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(480) 703-6483"
+      },
+      {
+        "type": "Other",
+        "number": "(888) 959-9942"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 321-8100"
+      }
+    ],
+    "sold": 122,
+    "for_sale": 10
+  },
+  {
+    "name": "Lisa Roberts",
+    "phones": [
+      {
+        "type": "Home",
+        "number": "(480) 232-3291"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 850-5000"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 287-5200"
+      },
+      {
+        "type": "Toll Free",
+        "number": "(877) 276-1061"
+      },
+      {
+        "type": "Fax",
+        "number": "(480) 287-5202"
+      }
+    ],
+    "sold": 122,
+    "for_sale": 13
+  },
+  {
+    "name": "Brian Horton",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(623) 738-1456"
+      },
+      {
+        "type": "Mobile",
+        "number": "(632) 738-1456"
+      },
+      {
+        "type": "Mobile",
+        "number": "(602) 291-1866"
+      }
+    ],
+    "sold": 121,
+    "for_sale": 16
+  },
+  {
+    "name": "Sammie Hone",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(928) 231-7657"
+      },
+      {
+        "type": "Fax",
+        "number": "(928) 684-7022"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 794-1695"
+      },
+      {
+        "type": "Toll Free",
+        "number": "(800) 641-0021"
+      }
+    ],
+    "sold": 120,
+    "for_sale": 58
+  },
+  {
+    "name": "Matthew Potter",
+    "phones": [
+      {
+        "type": "Other",
+        "number": "(480) 696-5500"
+      },
+      {
+        "type": "Mobile",
+        "number": "(480) 343-7894"
+      },
+      {
+        "type": "Home Office",
+        "number": "(480) 838-1695"
+      }
+    ],
+    "sold": 119,
+    "for_sale": 64
+  },
+  {
+    "name": "DANIEL BROWN",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(480) 707-2934"
+      },
+      {
+        "type": "Office",
+        "number": "(480) 685-2760"
+      }
+    ],
+    "sold": 117,
+    "for_sale": 24
+  },
+  {
+    "name": "Carin Nguyen  Team",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(602) 832-7005"
+      },
+      {
+        "type": "Office",
+        "number": "(602) 345-1771"
+      }
+    ],
+    "sold": 1,
+    "for_sale": null
+  }
+]

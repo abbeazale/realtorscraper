@@ -1,31 +1,5 @@
 [
   {
-    "name": "Beth Benner",
-    "phones": [
-      {
-        "type": "Office",
-        "number": "(503) 819-2885"
-      },
-      {
-        "type": "Mobile",
-        "number": "(360) 790-1848"
-      }
-    ]
-  },
-  {
-    "name": "Danielle Davis",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 977-8863"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 574-5060"
-      }
-    ]
-  },
-  {
     "name": "Darryl Bodle II",
     "phones": [
       {
@@ -36,258 +10,373 @@
         "type": "Office",
         "number": "(503) 597-2444"
       }
-    ]
+    ],
+    "sold": 823,
+    "for_sale": 244
   },
   {
-    "name": "Eric Lopez",
+    "name": "Jordan Matin",
     "phones": [
       {
-        "type": "Mobile",
-        "number": "(360) 762-1102"
+        "type": "Office",
+        "number": "(503) 549-4581"
       },
       {
         "type": "Office",
-        "number": "(360) 810-5696"
+        "number": "(503) 447-3599"
       }
-    ]
+    ],
+    "sold": 278,
+    "for_sale": 33
   },
   {
-    "name": "Garett Chadney",
+    "name": "Amy Asivido Christman",
     "phones": [
       {
-        "type": "Mobile",
-        "number": "(503) 970-0858"
+        "type": "Office",
+        "number": "(360) 907-1073"
       },
       {
         "type": "Office",
-        "number": "(503) 465-5077"
+        "number": "(360) 693-3336"
       }
-    ]
+    ],
+    "sold": 196,
+    "for_sale": 43
   },
   {
-    "name": "Garret Eastman-king",
+    "name": "Haris Hadziselimovic",
     "phones": [
       {
-        "type": "Other",
-        "number": "(360) 515-4229"
+        "type": "Home",
+        "number": "(360) 521-1615"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-3336"
+      }
+    ],
+    "sold": 157,
+    "for_sale": 5
+  },
+  {
+    "name": "Drew Coleman",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(503) 908-4908"
+      },
+      {
+        "type": "Mobile",
+        "number": "(503) 908-4909"
+      }
+    ],
+    "sold": 115,
+    "for_sale": 7
+  },
+  {
+    "name": "Hannah Dubyne",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 347-2551"
+      },
+      {
+        "type": "Mobile",
+        "number": "(425) 903-2609"
+      },
+      {
+        "type": "Office",
+        "number": "(509) 334-0562"
+      }
+    ],
+    "sold": 107,
+    "for_sale": 2
+  },
+  {
+    "name": "Jennifer Maben",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(503) 349-4365"
+      },
+      {
+        "type": "Office",
+        "number": "(503) 344-4554"
+      }
+    ],
+    "sold": 101,
+    "for_sale": 14
+  },
+  {
+    "name": "Aaron Rader",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(971) 203-2121"
+      },
+      {
+        "type": "Home",
+        "number": "(503) 496-7620"
+      }
+    ],
+    "sold": 92,
+    "for_sale": 23
+  },
+  {
+    "name": "Joan Mezzanatto",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 773-8373"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 253-4100"
+      }
+    ],
+    "sold": 91,
+    "for_sale": 16
+  },
+  {
+    "name": "Beth Benner",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(503) 819-2885"
+      },
+      {
+        "type": "Mobile",
+        "number": "(360) 790-1848"
+      }
+    ],
+    "sold": 90,
+    "for_sale": 10
+  },
+  {
+    "name": "Star Team",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 430-7373"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-3336"
+      }
+    ],
+    "sold": 88,
+    "for_sale": 9
+  },
+  {
+    "name": "Debi Trull",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 270-3185"
+      }
+    ],
+    "sold": 87,
+    "for_sale": 41
+  },
+  {
+    "name": "Kale Dunning",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 546-1085"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 993-2222"
+      }
+    ],
+    "sold": 86,
+    "for_sale": 9
+  },
+  {
+    "name": "Alyssa Curran",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(801) 372-1844"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 419-5600"
+      }
+    ],
+    "sold": 85,
+    "for_sale": 17
+  },
+  {
+    "name": "Ryan LaPointe",
+    "phones": [
+      {
+        "type": "Home",
+        "number": "(360) 609-2830"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-6139"
+      }
+    ],
+    "sold": 82,
+    "for_sale": 5
+  },
+  {
+    "name": "Tesha Perry",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 624-4428"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-3336"
+      }
+    ],
+    "sold": 81,
+    "for_sale": 15
+  },
+  {
+    "name": "Donna Roberts",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 558-3700"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 521-5478"
+      },
+      {
+        "type": "Office",
+        "number": "(888) 814-9613"
+      }
+    ],
+    "sold": 80,
+    "for_sale": 5
+  },
+  {
+    "name": "Li Huong Lanz",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(503) 936-4154"
+      },
+      {
+        "type": "Office",
+        "number": "(509) 489-7000"
+      }
+    ],
+    "sold": 78,
+    "for_sale": 11
+  },
+  {
+    "name": "Fred Sanchez",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 607-5217"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 558-3945"
+      }
+    ],
+    "sold": 77,
+    "for_sale": 17
+  },
+  {
+    "name": "Kyle R McCrady",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 560-1887"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 636-7378"
+      }
+    ],
+    "sold": 74,
+    "for_sale": 5
+  },
+  {
+    "name": "Jason Blakeman",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 909-9950"
+      },
+      {
+        "type": "BUSINESS_PHONE",
+        "number": "(503) 905-2999"
+      }
+    ],
+    "sold": 73,
+    "for_sale": 23
+  },
+  {
+    "name": "Aaron Pontius",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 536-1790"
       },
       {
         "type": "Office",
         "number": "(503) 908-4908"
       }
-    ]
+    ],
+    "sold": 71,
+    "for_sale": 8
   },
   {
-    "name": "Hal Byrd",
+    "name": "Deborah Evoniuk",
     "phones": [
       {
         "type": "Mobile",
-        "number": "(360) 818-4438"
-      },
-      {
-        "type": "BUSINESS_PHONE",
-        "number": "(503) 905-2999"
-      }
-    ]
-  },
-  {
-    "name": "Heather Theiss",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 853-6217"
+        "number": "(360) 213-7216"
       },
       {
         "type": "Office",
-        "number": "(503) 432-8126"
-      }
-    ]
-  },
-  {
-    "name": "Jacob Wathen",
-    "phones": [
-      {
-        "type": "Office",
-        "number": "(541) 525-3412"
+        "number": "(360) 213-7864"
       },
       {
         "type": "Office",
-        "number": "(503) 353-6673"
+        "number": "(360) 558-3945"
       }
-    ]
+    ],
+    "sold": 71,
+    "for_sale": 12
   },
   {
-    "name": "Janice Dutson",
+    "name": "Jodie Sharp",
     "phones": [
       {
         "type": "Mobile",
-        "number": "(360) 609-3463"
+        "number": "(360) 798-6668"
       },
       {
         "type": "Office",
-        "number": "(360) 693-3336"
+        "number": "(360) 993-2222"
       }
-    ]
+    ],
+    "sold": 71,
+    "for_sale": 8
   },
   {
-    "name": "Jay Westfall",
+    "name": "Susan Gregory",
     "phones": [
       {
         "type": "Mobile",
-        "number": "(503) 680-6903"
-      },
-      {
-        "type": "Home Office",
-        "number": "(503) 919-7500"
-      },
-      {
-        "type": "Office",
-        "number": "(503) 353-6673"
+        "number": "(360) 836-4408"
       }
-    ]
-  },
-  {
-    "name": "Jeff Mayer",
-    "phones": [
-      {
-        "type": "Home",
-        "number": "(360) 903-7687"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 693-3336"
-      }
-    ]
-  },
-  {
-    "name": "Joe Cazares",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 718-0805"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 256-0088"
-      }
-    ]
-  },
-  {
-    "name": "Kelly Craig Graham",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(803) 873-0007"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 256-0088"
-      }
-    ]
-  },
-  {
-    "name": "Korrie Hicks",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 680-4371"
-      }
-    ]
-  },
-  {
-    "name": "Nicole White",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 601-2651"
-      },
-      {
-        "type": "BUSINESS_PHONE",
-        "number": "(503) 905-2999"
-      }
-    ]
-  },
-  {
-    "name": "Pamela Crisp",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 703-7412"
-      },
-      {
-        "type": "office",
-        "number": "(360) 232-8777"
-      }
-    ]
-  },
-  {
-    "name": "Sher Kirkpatrick",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 909-8636"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 574-1111"
-      }
-    ]
-  },
-  {
-    "name": "Sonya MacDonald",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 704-2338"
-      },
-      {
-        "type": "Mobile",
-        "number": "(360) 693-6139"
-      }
-    ]
-  },
-  {
-    "name": "Virginia Getz",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 504-7476"
-      },
-      {
-        "type": "Office",
-        "number": "(503) 658-2030"
-      }
-    ]
-  },
-  {
-    "name": "Amy Tierney",
-    "phones": [
-      {
-        "type": "Office",
-        "number": "(360) 816-6734"
-      },
-      {
-        "type": "Mobile",
-        "number": "(360) 567-7473"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 693-3336"
-      }
-    ]
-  },
-  {
-    "name": "Anastasia Gordeev",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 891-5046"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 258-7882"
-      }
-    ]
+    ],
+    "sold": 71,
+    "for_sale": 14
   },
   {
     "name": "Brandon King",
@@ -304,176 +393,24 @@
         "type": "Fax",
         "number": "(503) 548-4888"
       }
-    ]
+    ],
+    "sold": 70,
+    "for_sale": 3
   },
   {
-    "name": "Debi Trull",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 270-3185"
-      }
-    ]
-  },
-  {
-    "name": "Jenny Jones",
-    "phones": [
-      {
-        "type": "office",
-        "number": "(360) 771-6733"
-      },
-      {
-        "type": "BUSINESS_PHONE",
-        "number": "(425) 456-9595"
-      }
-    ]
-  },
-  {
-    "name": "Jessica Coles",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(541) 350-3561"
-      },
-      {
-        "type": "Office",
-        "number": "(503) 353-6673"
-      }
-    ]
-  },
-  {
-    "name": "Jessica L Wang",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 450-5014"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 524-2387"
-      }
-    ]
-  },
-  {
-    "name": "Julie Baldino",
+    "name": "Melissa Erickson",
     "phones": [
       {
         "type": "Office",
-        "number": "(360) 450-4486"
-      },
-      {
-        "type": "Mobile",
-        "number": "(360) 910-3586"
-      },
-      {
-        "type": "Fax",
-        "number": "(360) 989-3389"
+        "number": "(360) 772-1623"
       },
       {
         "type": "Office",
-        "number": "(360) 989-3390"
+        "number": "(360) 636-4663"
       }
-    ]
-  },
-  {
-    "name": "Kaylie Shults",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 847-1556"
-      },
-      {
-        "type": "Office",
-        "number": "(503) 658-2030"
-      }
-    ]
-  },
-  {
-    "name": "Ken Chin",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 773-5205"
-      },
-      {
-        "type": "Mobile",
-        "number": "(503) 349-4365"
-      }
-    ]
-  },
-  {
-    "name": "Laura Peterson",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 608-2122"
-      },
-      {
-        "type": "Mobile",
-        "number": "(360) 693-6139"
-      }
-    ]
-  },
-  {
-    "name": "Li Huong Lanz",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(503) 936-4154"
-      },
-      {
-        "type": "Office",
-        "number": "(509) 489-7000"
-      }
-    ]
-  },
-  {
-    "name": "Lisa Cooper",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 609-7765"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 567-0164"
-      }
-    ]
-  },
-  {
-    "name": "Lori Hausler",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 281-6557"
-      }
-    ]
-  },
-  {
-    "name": "Mallory Janssen",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 281-3178"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 567-0164"
-      }
-    ]
-  },
-  {
-    "name": "Nathan Samander",
-    "phones": [
-      {
-        "type": "Mobile",
-        "number": "(360) 576-4400"
-      },
-      {
-        "type": "Office",
-        "number": "(360) 907-4444"
-      }
-    ]
+    ],
+    "sold": 70,
+    "for_sale": 6
   },
   {
     "name": "Robin Malcomson",
@@ -486,45 +423,184 @@
         "type": "Office",
         "number": "(503) 908-4908"
       }
-    ]
+    ],
+    "sold": 67,
+    "for_sale": 1
   },
   {
-    "name": "Steve Studley",
+    "name": "Amy Tierney",
     "phones": [
-      {
-        "type": "Other",
-        "number": "(360) 606-8816"
-      },
       {
         "type": "Office",
-        "number": "(360) 419-5600"
-      }
-    ]
-  },
-  {
-    "name": "Tesha Perry",
-    "phones": [
+        "number": "(360) 816-6734"
+      },
       {
         "type": "Mobile",
-        "number": "(360) 624-4428"
+        "number": "(360) 567-7473"
       },
       {
         "type": "Office",
         "number": "(360) 693-3336"
       }
-    ]
+    ],
+    "sold": 64,
+    "for_sale": 9
   },
   {
-    "name": "WILLIE F PEARSON",
+    "name": "Julie Yunger",
     "phones": [
       {
         "type": "Mobile",
-        "number": "(337) 208-9365"
+        "number": "(503) 819-6210"
       },
       {
         "type": "Office",
-        "number": "(360) 458-3855"
+        "number": "(888) 897-7821"
       }
-    ]
+    ],
+    "sold": 64,
+    "for_sale": 5
+  },
+  {
+    "name": "Korrie Hicks",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(503) 680-4371"
+      }
+    ],
+    "sold": 64,
+    "for_sale": 9
+  },
+  {
+    "name": "Theresa Lowe-Ceryance",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 513-8116"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-3336"
+      }
+    ],
+    "sold": 64,
+    "for_sale": 7
+  },
+  {
+    "name": "June Berfanger",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 521-6620"
+      },
+      {
+        "type": "Office",
+        "number": "(503) 936-9910"
+      }
+    ],
+    "sold": 63,
+    "for_sale": 13
+  },
+  {
+    "name": "John Bishop",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 909-1179"
+      },
+      {
+        "type": "Mobile",
+        "number": "(360) 693-6139"
+      }
+    ],
+    "sold": 62,
+    "for_sale": 15
+  },
+  {
+    "name": "Scott Combs",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 904-2966"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 993-2222"
+      }
+    ],
+    "sold": 62,
+    "for_sale": 14
+  },
+  {
+    "name": "Kristy Childers - Childers & Hess Team",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 513-8339"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 253-3600"
+      }
+    ],
+    "sold": 61,
+    "for_sale": 15
+  },
+  {
+    "name": "Michael Beirwagen",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(503) 810-0505"
+      },
+      {
+        "type": "Office",
+        "number": "(503) 624-9660"
+      }
+    ],
+    "sold": 61,
+    "for_sale": 19
+  },
+  {
+    "name": "Chaney Compher",
+    "phones": [
+      {
+        "type": "Office",
+        "number": "(360) 909-7845"
+      }
+    ],
+    "sold": 60,
+    "for_sale": 6
+  },
+  {
+    "name": "Hal Byrd",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 818-4438"
+      },
+      {
+        "type": "BUSINESS_PHONE",
+        "number": "(503) 905-2999"
+      }
+    ],
+    "sold": 60,
+    "for_sale": 4
+  },
+  {
+    "name": "Kelly Muscarella",
+    "phones": [
+      {
+        "type": "Mobile",
+        "number": "(360) 687-2767"
+      },
+      {
+        "type": "Office",
+        "number": "(360) 693-3336"
+      }
+    ],
+    "sold": 60,
+    "for_sale": 6
   }
 ]
